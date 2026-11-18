@@ -10,7 +10,7 @@ This notebook explores 541,909 rows from an online retail store between 2010-12-
 ## Files
 - `Retail Store project.ipynb` – the full analysis notebook
 - `Online Retail 2.xlsx` – the raw dataset
-- `Online Retail Store Exploratory Data Analysis Report.pdf` – the EDA report for non-technical readers
+- `Online Retail Store EDA Report (4 pages).pdf` – the EDA report for non-technical readers
 
 ## How to run
 1. Install the libraries: `pip install pandas numpy matplotlib seaborn missingno scipy openpyxl jupyter`
@@ -35,4 +35,4 @@ This notebook explores 541,909 rows from an online retail store between 2010-12-
 - The Netherlands is #2 by revenue with few order lines (big customers)
 
 ## Author
-Khodor El-Rifai – November 2026v
+Khodor El-Rifai – November 2026
